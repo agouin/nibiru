@@ -239,6 +239,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bump `docker/setup-qemu-action` from 2 to 3 ([#1569](https://github.com/NibiruChain/nibiru/pull/1569))
 - Bump `github.com/cosmos/cosmos-sdk` from v0.47.4 to v0.47.5 ([#1578](https://github.com/NibiruChain/nibiru/pull/1578))
 - Bump `codecov/codecov-action` from 3 to 4 ([#1583](https://github.com/NibiruChain/nibiru/pull/1583))
+- Bump `github.com/cosmos/gogoproto` from 1.4.10 to 1.4.11 ([#1546](https://github.com/NibiruChain/nibiru/pull/1546))
 * Bump `github.com/cosmos/gogoproto` from 1.4.10 to 1.4.11 ([#1546](https://github.com/NibiruChain/nibiru/pull/1546))
 
 ## [v0.19.2](https://github.com/NibiruChain/nibiru/releases/tag/v0.19.2) - 2023-02-24
