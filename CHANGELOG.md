@@ -105,7 +105,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bump `cosmossdk.io/errors` from 1.0.0-beta.7 to 1.0.0 (#1499)
 - Bump `github.com/holiman/uint256` from 1.2.2 to 1.2.3 (#1504)
 - Bump `actions/checkout` from 3 to 4 ([#1563](https://github.com/NibiruChain/nibiru/pull/1563))
-- Bump `github.com/cosmos/gogoproto` from 1.4.10 to 1.4.11 ([#1546](https://github.com/NibiruChain/nibiru/pull/1546))
 
 ### Breaking
 
@@ -150,6 +149,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * [#1413](https://github.com/NibiruChain/nibiru/pull/1413) - fix(perp): provide descriptive errors when all liquidations fail in MultiLiquidate
 * [#1427](https://github.com/NibiruChain/nibiru/pull/1427) - refactor(perp)!: PositionChangedEvent `MarginToUser`
 * [#1407](https://github.com/NibiruChain/nibiru/pull/1407) - feat!: upgrade to Cosmos SDK v0.47.3
+* Bump `github.com/cosmos/gogoproto` from 1.4.10 to 1.4.11 ([#1546](https://github.com/NibiruChain/nibiru/pull/1546))
 
 ### Improvements
 
